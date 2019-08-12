@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 787643722
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: a40c73122131a7f466d3dc95d2e191cc
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 5ad585dd02dfb5016c0dad519eab8f49
+HashAppended: 0
+ClassTypes:
+- Class: 49
+  Script: {instanceID: 0}
+Assets:
+- Assets/Lua/lpeg/re.lua.bytes
+Dependencies: []
